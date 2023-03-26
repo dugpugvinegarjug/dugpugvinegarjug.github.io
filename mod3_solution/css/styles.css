@@ -22,6 +22,7 @@
 .nav-pills {
 	width: 110%;
 	margin-left: -5%;
+	overflow: hidden;
 }
 .nav-pills > li {
 	background-color: #aaaaaa;
