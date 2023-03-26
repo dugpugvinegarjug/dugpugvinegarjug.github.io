@@ -28,6 +28,7 @@
 	background-color: #aaaaaa;
 	border: 1px solid black;
 	border-radius: 2px;
+	overflow: hidden;
 
 }
 .nav-pills > li > a {
